@@ -4,5 +4,5 @@ echo "that is running in a build step"
 echo "this is param $passed"
 num=$(($first+$second))
 echo "$num"
-echo "this is completed"
 echo "extra lines added"
+
