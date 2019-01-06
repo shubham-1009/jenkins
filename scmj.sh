@@ -5,3 +5,4 @@ echo "this is param $passed"
 num=$(($first+$second))
 echo "$num"
 echo "this is completed"
+echo "extra lines added"
